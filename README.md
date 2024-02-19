@@ -110,7 +110,7 @@ For details, see https://www.nltk.org/data.html
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum for the Bachelors Degree in Software Development at KCA UNIVERSITY (CLOUD Application Development Unit).For more information, visit
+All work contained in this project was completed as part of the curriculum for the Bachelors Degree in Software Development at KCA UNIVERSITY (EXPERT SYSTEMS Unit).For more information, visit
 [this link](https://www.kcau.ac.ke/).
 
 <p align="center">
